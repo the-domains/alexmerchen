@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AlexMerchen]]></title>
+        <description><![CDATA[AlexMerchen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 26 Oct 2015 19:26:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Give Your Dog Her Own Murphy Bed]]></title>
+            <description><![CDATA[<article><h1>How To Give Your Dog Her Own Murphy Bed</h1><p>If you're tired of seeing a shaggy dog bed-with plenty of toys spilling out of it-laying around your home, these "Murphy's Paw" dog beds are the perfect solution for you</p><img src="http://pop.h-cdn.co/assets/15/42/980x490/gallery-1445023865-murphy-bed-dogs.png"></article>]]></description>
+            <link>http://www.popularmechanics.com/home/a17817/dog-murphy-bed/?mag=pop&amp;list=nl_pnl_news&amp;src=nl&amp;date=101915</link>
+            <guid isPermaLink="false">4ba9134c-8bf6-45fa-9c8b-0006c4464421</guid>
+            <pubDate>Mon, 26 Oct 2015 19:26:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

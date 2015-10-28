@@ -1,6 +1,6 @@
 name: AlexMerchen
 favicon: null
-layout_spectrum: 0.689596313983202
+layout_spectrum: 1
 typography_spectrum: 0.76062
 title: New Haven House Blog
 cta:
@@ -22,8 +22,8 @@ color:
     - '#918674'
     - '#2f3237'
     - '#4f473c'
-  brandStrength: 0.865199311170727
-  lightness: 0.375
-  saturation: 0.11377790127880871
+  brandStrength: 0.75
+  lightness: 0.6875
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
